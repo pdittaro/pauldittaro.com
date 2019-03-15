@@ -1,13 +1,13 @@
 "use strict";
 
 module.exports = {
-  url: "https://lumen.netlify.com",
+  url: "https://pauldittaro.com",
   title: "Blog by Paul Dittaro",
   subtitle: "Coming soon.",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
-  googleAnalyticsId: "UA-73379983-2",
+  googleAnalyticsId: "fillme",
   menu: [
     {
       label: "Articles",
